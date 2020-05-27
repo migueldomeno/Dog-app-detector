@@ -6,6 +6,7 @@ With this model I reached 79% accuracy.
 Getting Started:
 
 Step 1: Review my code and results in dog_app.ipynb.
+
 Step 2: Do this project yourself
 To make your own Dog App review the project requirements, go here and follow the instructions in the ReadMe.
 
